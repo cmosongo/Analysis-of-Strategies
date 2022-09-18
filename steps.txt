@@ -1,0 +1,3 @@
+create new env
+define env requirements
+dockerize 
